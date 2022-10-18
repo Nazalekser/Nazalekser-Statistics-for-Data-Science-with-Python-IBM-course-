@@ -1,2 +1,2 @@
-# Nazalekser-Statistics-for-Data-Science-with-Python-IBM-course-
-from Coursera, IBM (course)
+# Statistics for Data Science with Python course labs and assignments.
+
